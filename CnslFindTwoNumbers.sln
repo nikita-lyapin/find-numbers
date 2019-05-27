@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CnslFindTwoNumbers", "CnslFindTwoNumbers\CnslFindTwoNumbers.csproj", "{4EBC7244-4035-4F54-84F9-CB0C6D47D91D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EBC7244-4035-4F54-84F9-CB0C6D47D91D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EBC7244-4035-4F54-84F9-CB0C6D47D91D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EBC7244-4035-4F54-84F9-CB0C6D47D91D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EBC7244-4035-4F54-84F9-CB0C6D47D91D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71142214-050F-4354-AF13-DF5DC1767AB5}
+	EndGlobalSection
+EndGlobal
